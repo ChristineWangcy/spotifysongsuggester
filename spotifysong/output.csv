@@ -1,0 +1,22 @@
+,name,album,artists,distance,neighbors
+0,"""A Bunch of Muppets""",Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],0.0,5285
+1,Chewbacca,Music From The Motion Picture Clerks,['Supernova Chile'],2.4835025512016156,5286
+2,Making Me Sick,Music From The Motion Picture Clerks,['Bash & Pop'],2.8013139760768917,5284
+3,Randal & Dante on Sex,Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],2.932089120053384,5283
+4,Panic in Cicero,Music From The Motion Picture Clerks,['The Jesus Lizard'],3.698622856966749,5287
+5,Shooting Star,Music From The Motion Picture Clerks,['Golden Smog'],4.502088336196719,5288
+6,Got Me Wrong,Music From The Motion Picture Clerks,['Alice In Chains'],4.7183057965952875,5282
+7,"No Time for Love, Dr. Jones",Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],6.029975078784907,5281
+8,Leaders and Followers,Music From The Motion Picture Clerks,['Bad Religion'],6.128885405889774,5289
+9,"""I Like to Expand My Horizons",Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],7.289596436867535,5290
+10,Kill the Sex Player,Music From The Motion Picture Clerks,['Girls Against Boys'],7.3913013096387585,5280
+11,Violent Mood Swings (Thread Mix),Music From The Motion Picture Clerks,['Stabbing Westward'],8.696385939849364,5291
+12,Clerks,Music From The Motion Picture Clerks,['Love Among Freaks'],8.928115668841043,5279
+13,Dante's Lament,Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],10.120103002102253,5278
+14,Berserker,Music From The Motion Picture Clerks,['Love Among Freaks'],10.228678057191033,5292
+15,Big Problems,Music From The Motion Picture Clerks,['Corrosian Of Conformity'],11.645053767663764,5293
+16,Bayati Maqam,Forest Bathing,['A Hawk And A Hacksaw'],11.650270450224843,5277
+17,The Washing Bear,Forest Bathing,['A Hawk And A Hacksaw'],13.011577874849406,5276
+18,Go Your Own Way,Music From The Motion Picture Clerks,['Seaweed'],13.04213133423163,5294
+19,"""Social Event of the Season""",Music From The Motion Picture Clerks,['Clerks (Original Motion Picture Soundtrack)'],14.162084886684665,5295
+20,Babayaga,Forest Bathing,['A Hawk And A Hacksaw'],14.401870851432525,5275
